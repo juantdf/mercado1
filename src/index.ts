@@ -7,4 +7,4 @@ document.getElementById("app").innerHTML = `
   info about Parcel 
   <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>.
 </div>`;
-console.log();
+console.log("afasfa");
